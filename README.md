@@ -4,7 +4,7 @@ This assignment involves scraping data from a YouTube channel to extract useful 
 
 ## YouTube Channel
 - Channel Name: Nouman Ali Khan - Official Bayyinah Page
-- Channel URL: Nouman Ali Khan - Bayyinah
+- Channel URL: [Nouman Ali Khan - Bayyinah](https://www.youtube.com/c/bayyinah)
 
 ## Tasks
 #### 1. Extract Video Titles
